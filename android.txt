@@ -1,0 +1,12 @@
+"orientation"
+horizontal: hàng dọc
+vertical: hàng ngang
+android:layout_width
+android:layout_height
+android:layout_gravity="" bố trí vị trí nút lệnh
+-------------
+Relative Layout : mqh giữa các thành phần
+layout_above
+layout_below
+layout_toLeftOf
+layout_toRightOf
